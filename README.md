@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=Linkdin&style=for-the-badge&url=https://www.instagram.com/imtony12/)](https://www.linkedin.com/in/erdhanesh/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imtony12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimtony12&screen_name=imtony12)
 
-This is the Year 2020 (the pandemic) - When I started using git as my primary version control until now, I used to create multiple copies of my code. I am an Aerospace engineer by profession and coder by passion. 
+This is the Year 2020 (the pandemic) - When I started using git as my primary version control until now, I used to create multiple copies of my code. I am an Aerospace engineer by profession and coder by passion. I am looking forward to the journey to be a developer and contributing to some opensource projects.
 
 
 ## I'm a Chief AI Engineer at Risk Latte AI
