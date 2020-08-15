@@ -42,10 +42,10 @@
 <br />
 <br />
 
-### Stats of all the programing language used in my Git-Repositorys
+### Stats of all the programing language in my Git-Repositorys
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtony3579&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtony3579&layout=compact)
 
 ---
 
