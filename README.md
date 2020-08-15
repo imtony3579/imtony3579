@@ -1,13 +1,12 @@
-### Hi there, I'm Dhanesh Kumare - aka [imtony3579](https://github.com/imtony3579) 👋
+### Hi there, I'm Dhanesh Kumar - aka [imtony3579](https://github.com/imtony3579) 👋
 [![Website](https://img.shields.io/website?label=Linkdin&style=for-the-badge&url=https://www.instagram.com/imtony12/)](https://www.linkedin.com/in/erdhanesh/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imtony12?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimtony12&screen_name=imtony12)
 
 
 ## I'm a Chief AI Engineer at Risk Latte AI
 
-- 🔭 I’m currently working on a creating a new python module for ML
+- 🔭 I’m currently working on a "Python module for ML"
 - 🌱 I’m currently learning Full stack development
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 <!--
@@ -43,14 +42,14 @@
 <br />
 <br />
 
-Stats of all the programing language used in my Git-Repositorys
+### Stats of all the programing language used in my Git-Repositorys
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtony3579&layout=compact)]
 
 ---
 
-Overall Github utilization statistics 
+### Overall Github utilization statistics 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtony3579&show_icons=true)
 
