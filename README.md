@@ -44,7 +44,7 @@ This is the Year 2020 (the pandemic) - When I started using git as my primary ve
 <br />
 <br />
 
-### Stats of all the programing language in my Git-Repositorys
+### Stats of all the languagess in my Git-Repositorys
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtony3579&layout=compact)
