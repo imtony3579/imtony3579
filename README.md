@@ -9,7 +9,7 @@ This is the Year 2020 (the pandemic) - When I started using git as my primary ve
 
 - 🔭 I’m currently working on a "Python module for ML"
 - 🌱 I’m currently learning Full stack development
-- 🥅 2020 Goals: Start Contributing to Open Source projects
+- 🥅 2021 Goals: Start Contributing to Open Source projects
 
 <!--
 ### Spotify Playing 🎧
