@@ -5,11 +5,11 @@
 This is the Year 2020 (the pandemic) - When I started using git as my primary version control, till now, I use to create multiple copies of my code. I am an Aerospace engineer by profession and coder by passion. I will try my best to become a developer and will contribute to some opensource projects.
 
 
-## I'm a Chief AI Engineer at Risk Latte AI
+## I'm an AI (Artificial Intelligence) Engineer at Risk Latte AI
 
 - 🔭 I’m currently working on a "Python module for ML"
 - 🌱 I’m currently learning Full stack development
-- 🥅 2021 Goals: Start Contributing to Open Source projects
+- 🥅 2021 Goals: Build ML algo using C++
 
 <!--
 ### Spotify Playing 🎧
