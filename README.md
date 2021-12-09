@@ -7,9 +7,9 @@ This is the Year 2020 (the pandemic) - When I started using git as my primary ve
 
 ## I'm an AI (Artificial Intelligence) Engineer at Risk Latte AI
 
-- 🔭 I’m currently working on a "Python module for ML"
+- 🔭 I’m currently working on a "Fluter App development"
 - 🌱 I’m currently learning Full stack development
-- 🥅 2021 Goals: Build ML algo using C++
+- 🥅 2022 Goals: Build raytracing algo using C++ and participate in open source projects
 
 <!--
 ### Spotify Playing 🎧
