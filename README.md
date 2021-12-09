@@ -44,6 +44,7 @@ This is the Year 2020 (the pandemic) - When I started using git as my primary ve
 <br />
 <br />
 
+<!--
 ### Stats of all the languagess in my Git-Repositorys
 
 
@@ -55,6 +56,7 @@ This is the Year 2020 (the pandemic) - When I started using git as my primary ve
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtony3579&show_icons=true)
 
+-->
 ![](https://komarev.com/ghpvc/?username=imtony3579&color=blue&label=Profile+Views)
 [![GitHub imtony3579](https://img.shields.io/github/followers/imtony3579?label=follow&style=social)](https://github.com/imtony3579)
 
