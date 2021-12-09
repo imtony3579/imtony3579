@@ -17,11 +17,11 @@ This is the Year 2020 (the pandemic) - When I started using git as my primary ve
 ---
 ### Connect with me:
 
-[<img align="left" alt="imtnoy3579 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/imtony12)
+[<img align="left" alt="imtnoy3579 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color:#ffffff!important" />](https://twitter.com/imtony12)
 
-[<img align="left" alt="imtnoy3579 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/erdhanesh/)
+[<img align="left" alt="imtnoy3579 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:#ffffff!important" />](https://www.linkedin.com/in/erdhanesh/)
 
-[<img align="left" alt="imtnoy3579 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/imtony12/)
+[<img align="left" alt="imtnoy3579 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="background-color:#ffffff!important" />](https://www.instagram.com/imtony12/)
 
 <br />
 
