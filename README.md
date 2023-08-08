@@ -6,12 +6,10 @@ The Year 2020 (the pandemic) - I started using GitHub as my personal/primary ver
 
 
 
-## I'm an AI (Artificial Intelligence) Engineer at Risk Latte AI
+## I'm an AI (Artificial Intelligence) Engineer at Lymphomap Inc.
 
 - 🔭 I’m currently working on a "Flutter App development"
-- 🌱 Full stack development 
-- 🥅 2022 Goals: Build raytracing algo using C++ and participate in open source projects
-
+- 🥅 2023 Goals: Build raytracing algo using C++ and learn DevOps 
 <!--
 ### Spotify Playing 🎧
 -->
